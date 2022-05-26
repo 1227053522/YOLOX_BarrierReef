@@ -7,5 +7,3 @@
   The first step is to train the model. We need to configure the environment, import data, prepare validation set and training set, import weight parameters and training model, and then have our model through validation(see [step1](https://baidu.com))
   
   After that, we need to verify whether our model meets the indicators we need. We need to submit our model to the competition, so that we can get an F2 score to judge whether our model meets the expectations.(see [step2](https://baidu.com))
-## Details
-### 1.Pictures of multiple spiny crown starfish
